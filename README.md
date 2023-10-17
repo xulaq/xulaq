@@ -15,18 +15,14 @@
 - 🌱 I’m currently working at the CTC's general direction (Algeria) as a Software Engineer.
 	
 
-- 🎓 I have a **Master's Degree** in Computer Science (Bioinformatics - Data Science). Obtained from the University of Science & Technologies Houari Boumediene (USTHB), Algeria.
+- 🎓 I have a **Master's Degree** in Engineer in Intelligent Computer Systems. Obtained from the University of Algiers 1, Algeria.
 
 
-- 💻 All **my projects** are available on my github profiles : [djaliiil19](https://github.com/djaliiil19?tab=repositories) or [djaliiil](https://github.com/djaliiil?tab=repositories)
-
-
-- ✨ Interests: Coding, Art, Photography, Playing/Watching Football.
-
+- ✨ Interests: Gaming, Coding, Art, Photography, Watching Football.
 
 
 📫 Reach me on:
-# ( <a href="https://www.linkedin.com/in/abdeldjalil-bouzidi-55019615a/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/djaliiil19" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> )
+# ( <a href="https://www.linkedin.com/in/xulaq/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/xulaq/" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> )
 
 </span>
 
