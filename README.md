@@ -40,9 +40,7 @@
     <img height="50" src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
     <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="VueJS" title="VueJS" />
-    <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/matlab.svg" alt="Matlab" title="Matlab" />
     <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" title="Python" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/matlab.svg" alt="Matlab" title="Matlab" />
 </div>
 <div align="center">
     <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
