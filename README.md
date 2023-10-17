@@ -21,7 +21,7 @@
 - ✨ Interests: Gaming, Coding, Art, Photography, Watching Football.
 
 
-📫 Reach me on:
+📫 Reach me on :
 # ( <a href="https://www.linkedin.com/in/xulaq/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/xulaq/" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> )
 
 </span>
