@@ -42,6 +42,7 @@
     <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="VueJS" title="VueJS" />
     <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/matlab.svg" alt="Matlab" title="Matlab" />
     <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" title="Python" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/matlab.svg" alt="Matlab" title="Matlab" />
 </div>
 <div align="center">
     <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
