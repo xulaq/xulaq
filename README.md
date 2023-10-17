@@ -2,17 +2,7 @@
 <h3 align="center">A Full Stack Developer and a Computer Scientist</h3>
 
 <p align="center">I'm Abderrahmane CHIKH, an engineer with a Master's degree in Intelligent Computer Systems. Passionate about technology and driven to refine my skills, I have experience in web and software development.</p>
-<style>
-.icon {
-  transition: transform 0.3s ease-in-out;
-}
 
-/* Appliquez l'animation au survol de l'icône */
-.icon:hover {
-  transform: scale(1.2); /* Augmente la taille de l'icône */
-}
-
-</style>
 ---
 
 <img width="35%" align="right" src="./developer.jpg" />
