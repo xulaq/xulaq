@@ -4,23 +4,13 @@
 <p align="center">I'm Abderrahmane CHIKH, an engineer with a Master's degree in Intelligent Computer Systems. Passionate about technology and driven to refine my skills, I have experience in web and software development.</p>
 <style>
 	/* Ajoutez ce code CSS dans votre fichier CSS ou dans une balise <style> dans le HTML */
-
-/* Animation pour rebondir */
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-15px);
-  }
-  60% {
-    transform: translateY(-10px);
-  }
+.icon {
+  transition: transform 0.3s ease-in-out;
 }
 
-/* Appliquez l'animation à l'image de profil */
-img {
-  animation: bounce 2s infinite;
+/* Appliquez l'animation au survol de l'icône */
+.icon:hover {
+  transform: scale(1.2); /* Augmente la taille de l'icône */
 }
 
 </style>
