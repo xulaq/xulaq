@@ -18,7 +18,7 @@
 - 🎓 I have a **Master's Degree** in Engineer in Intelligent Computer Systems. Obtained from the University of Algiers 1, Algeria.
 
 
-- ✨ Interests: Gaming, Coding, Art, Photography, Watching Football.
+- ✨ Interests: Gaming, Coding, Art, Photography, Watching Football and Passionate about supporting Palestine 🇵🇸.
 
 
 📫 Reach me on :
