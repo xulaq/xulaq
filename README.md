@@ -56,4 +56,4 @@
 ###
 
 
-<p align="center"> Note : the projects I've worked on are in private repositories, which is why they are not visible here. </p>
+<p align="center"> Note: the projects I've worked on are in private repositories, which is why they are not visible here. </p>
