@@ -57,4 +57,4 @@ Ma photo
 ###
 
 
-Note : the projects I've worked on are in private repositories, which is why they are not visible here.
+<div align="center"> Note : the projects I've worked on are in private repositories, which is why they are not visible here. </div>
