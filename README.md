@@ -23,7 +23,11 @@
 
 📫 Reach me on :
 Ma photo
-# ( <a href="https://www.linkedin.com/in/xulaq/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/xulaq/" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://abderrahmanechikh.com" target="_blank"><img align="center" src="./Ma photo.jpg" alt="facebook" width="35" /></a> )
+# ( <a href="https://www.linkedin.com/in/xulaq/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/xulaq/" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://abderrahmanechikh.com" target="_blank">
+  <div style="width: 35px; height: 35px; border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="./Ma photo.jpg" alt="Portfolio" width="35" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+</a> )
 
 </span>
 
