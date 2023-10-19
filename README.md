@@ -53,3 +53,4 @@ Ma photo
 </div>
 
 
+Note : the projects I've worked on are in private repositories, which is why they are not visible here.
