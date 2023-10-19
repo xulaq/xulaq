@@ -52,5 +52,6 @@ Ma photo
     <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" title="Laravel" />
 </div>
 
+<center> Note : the projects I've worked on are in private repositories, which is why they are not visible here. </center>
 
-<div style="justify: content-center; margin-top:5em"> Note : the projects I've worked on are in private repositories, which is why they are not visible here. </div>
+<div style="justify: content-center; margin-top: 2em;"> Note : the projects I've worked on are in private repositories, which is why they are not visible here. </div>
