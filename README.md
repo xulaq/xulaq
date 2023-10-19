@@ -53,4 +53,4 @@ Ma photo
 </div>
 
 
-<div style="justify: content-center; margin-top:2em"> Note : the projects I've worked on are in private repositories, which is why they are not visible here. </div>
+<div style="justify: content-center; margin-top:5em"> Note : the projects I've worked on are in private repositories, which is why they are not visible here. </div>
