@@ -12,7 +12,7 @@
 ###
 <span style="font-family:Papyrus; font-size:1.5em;">
 
-- 🌱 I’m currently working at the CTC's general direction (Algeria) as a Software Engineer.
+- 🌱 I’m currently working at the SARL Brainiac as a FullStack Web Developer.
 	
 
 - 🎓 I have a **Master's Degree** in Engineer in Intelligent Computer Systems. Obtained from the University of Algiers 1, Algeria.
